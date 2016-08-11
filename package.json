@@ -1,0 +1,33 @@
+{
+  "name": "a",
+  "version": "0.0.1",
+  "description": "first version in produce row data Parse in word with Big5",
+  "main": "parse.js",
+  "scripts": {
+    "start": "node parse.js"
+  },
+   "contributors": [
+       {
+           "name": "Rach Chen",
+           "email": "aa1235561@gmail.com",
+           "web": "https://github.com/yueming-Chen" 
+       } 
+   ],
+   "bugs": {
+       "mail": "aa1235561@gmail.com",
+       "web": "https://github.com/yueming-Chen" 
+   },
+  "dependencies": {
+    "express": "^4.14.0",
+    "fs": "latest",
+    "iconv-lite": "latest",
+    "path": "latest"
+  },
+  "keywords": [
+    "node.js",
+    "javascript",
+    "inov"
+  ],
+  "author": "Rach Chen",
+  "license": "ISC"
+}
