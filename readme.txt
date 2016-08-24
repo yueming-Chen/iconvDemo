@@ -4,6 +4,12 @@
 ##########aa1235561@gmail.com  ###############
 ##########version:0.0.1        ###############
 ##############################################
+/******24/8/16********/
+
+If you got any trouble,push issues or contact me with email.
+mail:aa1235561@gmail.com
+
+/*******************/
 
 程式需求：node.js ^6.3.1
 請把資料夾放在C:/Users/"你的名字"/Desktop/a/
